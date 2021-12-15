@@ -34,6 +34,8 @@
 
 </br>
 
+<hr>
+
 ### 📫 &nbsp; How to reach me:
 
 
