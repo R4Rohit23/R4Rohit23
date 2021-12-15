@@ -8,9 +8,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=R4Rohit23&color=red)&nbsp;
 [![GitHub R4Rohit23](https://img.shields.io/github/followers/R4Rohit23?label=follow&style=social)](https://github.com/R4Rohit23)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-
+</br></br>
 ### 👨🏻‍💻 &nbsp;About Me
-
+</br></br>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -29,6 +29,10 @@
 <!-- ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp; -->
 <!-- ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp; -->
 <!-- ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp; -->
+</br></br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4Rohit23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rohit's Github Stats">
+
+</br>
 
 ### 📫 &nbsp; How to reach me:
 
