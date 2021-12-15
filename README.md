@@ -1,9 +1,14 @@
+<div align="center" >
+<img src="Banner2-01.jpg" alt="Welcome" height="300" align="Center" />
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' /> Hello there !
+### 
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=R4Rohit23&color=red)&nbsp;
 [![GitHub R4Rohit23](https://img.shields.io/github/followers/R4Rohit23?label=follow&style=social)](https://github.com/R4Rohit23)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 ### 🛠 &nbsp;Tech Stack
@@ -31,6 +36,8 @@
 <a href="https://www.linkedin.com/in/rohit-chaware//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:rohitchaware23@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/__rohitishere__/"><img src="https://img.shields.io/badge/-@rohitishere_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+  
+ </div>
 <!--
 **R4Rohit23/R4Rohit23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![MasterHead]("Pictures/Banner.jpg")](https://github.com/R4Rohit23)
