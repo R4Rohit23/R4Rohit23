@@ -46,6 +46,8 @@ I am Rohit Chaware 😎, currently pursuing my Bachelor's in Electronics And Tel
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R4Rohit23&hide_border=true&theme=radical" />
 </p>
 
+[![An image of @r4rohit23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/r4rohit23)](https://holopin.io/@r4rohit23)
+
 </br>
 
 <hr>
@@ -69,5 +71,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+- ⚡ Fun fact: ... -->
+
