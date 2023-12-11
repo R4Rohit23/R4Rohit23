@@ -8,7 +8,7 @@
 [![GitHub R4Rohit23](https://img.shields.io/github/followers/R4Rohit23?label=follow&style=social)](https://github.com/R4Rohit23)&nbsp;
 </br></br>
 ### 👨🏻‍💻 &nbsp;About Me
-I am Rohit Chaware 😎, currently pursuing my Bachelor's in Electronics And Telecommunication 🧑‍🎓 from S B Jain College of Engineering Management and Research. I am a Tech enthusiast 👨‍💻, designer ✌️ & an open-source contributer 🙂. I am always open to collaborating on projects and innovative/disruptive ideas 😄. When I am not coding, you'll find me lifting weights 💪 in the gym or reading History or Current Affairs.📌
+I am Rohit Chaware 😎. I am a Tech enthusiast 👨‍💻, designer ✌️ & an open-source contributer 🙂. I am always open to collaborating on projects and innovative/disruptive ideas 😄. When I am not coding, you'll find me lifting weights 💪 in the gym or reading History or Current Affairs.📌
 </br></br>
 ## ⚡ Tech Stack
 
